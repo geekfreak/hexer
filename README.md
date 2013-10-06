@@ -10,3 +10,5 @@ will a commmit hook be triggered, 1
 1234567890
 1234567890
 123
+
+test auto update
