@@ -7,6 +7,4 @@ added to a box on nitrous.io checking github integration
 
 will a commmit hook be triggered, 1
 
-123456
-  
-
+1234567
