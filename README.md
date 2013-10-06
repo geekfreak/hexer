@@ -9,3 +9,4 @@ will a commmit hook be triggered, 1
 
 test #2
 test #3
+test #4
