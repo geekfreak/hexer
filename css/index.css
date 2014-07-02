@@ -30,7 +30,7 @@ BODY {
 
 .shell {
     background-color: black;
-	min-height: 400px;
+    min-height: 400px;
     /*overflow: auto;*/
     color: white;
     font-size: 10pt;
@@ -51,9 +51,9 @@ BODY {
 }
 
 #outputContainer {
-	width:100%;
-	height:600px;
-	overflow-y:auto;
-	background-color: black;
+    width:100%;
+    height:600px;
+    overflow-y:auto;
+    background-color: black;
 }
 
